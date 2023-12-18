@@ -601,6 +601,7 @@ input {
 }
 .home__info-button {
   font-size: var(--smaller-font-size);
+  border-radius: 40px;
 }
 .home__info-overlay {
   overflow: var(--img-hidden);
